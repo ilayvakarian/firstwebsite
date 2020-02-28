@@ -12,13 +12,13 @@ body{
 	font-family: sans-serif;
 }
 #firstSlide{
-	background-image:url(../img/head1.jpg);
+	background-image:url(head1.jpg);
 }
 #secondSlide{
-	background-image:url(../img/head2.jpg);
+	background-image:url(head2.jpg);
 }
 #thirdSlide{
-	background-image:url(../img/head3.jpg);
+	background-image:url(head3.jpg);
 }
 .slider {
   position: relative;
